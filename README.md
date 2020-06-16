@@ -2,8 +2,8 @@
 This is a project which test the efficiency of machine learning pre-trained model BERT. In the project we ask BERT a few questions which answer can be found from within a context. 
 ## Technologies and techniques used for this project
 * **Python 3**
-* **Simple Transofrmers**: A library which simplifies the use of the Tranforming library by Huggingface.
-* **SQuAD** A dataset by crowdworkers which allows for the training, testing and benchmark leaderboard for Q&A models.
+* **[Simple Transofrmers](https://simpletransformers.ai/)**: A library which simplifies the use of the Tranforming library by [Huggingface](https://huggingface.co/transformers/v2.2.0/index.html/).
+* **[SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)** A dataset by crowdworkers which allows for the training, testing and benchmark leaderboard for Q&A models.
 * **Google Colab**: A online Python compiler that allows for the use of Google GPU resources to make the training of these models .faster.
 
 
